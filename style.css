@@ -1,0 +1,16 @@
+/* to change the color of the heading and rbd means red,green,blue */
+h1 {
+  color: rgb(161, 102, 102);
+}
+/* used to select all the text in p tag */
+p {
+  color: violet;
+}
+/* used to select all the text in ordered list */
+ol {
+  color: indianred;
+}
+/* used to select all the text in boby */
+body {
+  color: seagreen;
+}
